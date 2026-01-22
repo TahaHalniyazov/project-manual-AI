@@ -1,7 +1,7 @@
 export const useAppMenu = () => {
   const coreLinks = [
     { label: 'Home', to: '/' },
-    { label: 'CRUD', to: '/crud' },
+    { label: 'Data', to: '/data' },
     { label: 'Relations', to: '/relations' },
   ]
 
